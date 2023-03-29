@@ -1,4 +1,4 @@
-PRACTICE
+
 
 --1. How much each customer spent on eating?--
 
