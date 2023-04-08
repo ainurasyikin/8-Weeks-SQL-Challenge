@@ -13,8 +13,6 @@ FROM
 WHERE s.product_id = m.product_id
 GROUP BY customer_id
 
-![PIC PASSPORT AINUR](https://user-images.githubusercontent.com/116057562/230708474-cb15f2f9-374c-4134-bda0-3ca573353c4f.jpg)
-
 
 --2.How many days has each customers visited the restaurant?--
 
